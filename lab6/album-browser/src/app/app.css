@@ -1,0 +1,19 @@
+.navbar {
+  background: #222;
+  padding: 15px;
+}
+
+.navbar a {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.active {
+  font-weight: bold;
+  border-bottom: 2px solid yellow;
+}
+
+.container {
+  padding: 20px;
+}

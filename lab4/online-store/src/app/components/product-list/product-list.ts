@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, signal, computed} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Product } from '../../models/product.model';
 import { ProductCard } from '../product-card/product-card';
